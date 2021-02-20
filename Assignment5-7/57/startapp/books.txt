@@ -1,0 +1,10 @@
+100,2666, psyhoogy,Roberto Bolaño
+101,All About Love,love,Bell Hooks
+102,Desert Solitaire,action,Desert Solitaire
+103,Geek Love,drama,Katherine Dunn
+104,If on a Winter's Night a Traveler,action,Italo Calvino
+105,The Left Hand of Darkness,adventure,Ursula K. Le Guin
+106,To Kill a Mockingbird,action/police,Harper Lee
+107,Half of a Yellow Sun,phylosophy,Chimamanda Ngozi Adichie
+108,Invisible Cities,history,Italo Calvino
+109,Hopscotch,drama,Julio Cortázar
