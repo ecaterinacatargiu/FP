@@ -1,8 +1,4 @@
-'''
-Created on Jan 20, 2019
 
-@author: Korina
-'''
 from Battleships.Board import BoardError, Board
 from random import randint, choice
 

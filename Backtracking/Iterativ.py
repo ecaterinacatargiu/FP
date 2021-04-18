@@ -1,8 +1,3 @@
-'''
-Created on Jan 15, 2018
-
-@author: Otter
-'''
 while True:
     elemente = []
     try:

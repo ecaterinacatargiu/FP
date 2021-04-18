@@ -1,8 +1,3 @@
-'''
-Created on Jan 20, 2019
-
-@author: Korina
-'''
 from texttable import Texttable
 
 

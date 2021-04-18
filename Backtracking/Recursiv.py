@@ -1,8 +1,4 @@
-'''
-Created on Jan 15, 2018
 
-@author: Otter
-'''
 ok = [False]
 while True:
     elemente = []
